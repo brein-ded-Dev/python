@@ -1,0 +1,12 @@
+** is the exponent / power symbol  2**4 = 2^4
+// integer division symbol
+* used with string results in string replication 
+str * str doesn't exist
+str * float doesn't exist
+
+str needs explicit conversion 
+str(29) = the characters "29" 
+
+int() function is used to turn string integers to normal integers or to round off floats
+
+str() is used to turn normal integers to string integers
