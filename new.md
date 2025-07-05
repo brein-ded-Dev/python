@@ -20,3 +20,6 @@ empty string is also treated as false.
 range(start point, end point, step argument)
 
 from "Module" import * syntax can be used as using namespace
+
+use global keyword to specify global scope of a variable with same names. 
+
