@@ -22,8 +22,8 @@ del data[2] #del is a keyword to delete an element
 print(data[2])
 
 for i in range(len(data)): #for loop across the data list.
-    print("",end="")
-    
+    print(i,end="")
+print(data[24])
 print('This'in data) #checking if provided element is present in the list
 print('this'in data)
 print('This'not in data)
