@@ -15,4 +15,3 @@ while True:
         indent-=1
         if indent == 0:
             direction = True    
-    

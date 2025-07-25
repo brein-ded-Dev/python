@@ -3,7 +3,7 @@
 * used with string results in string replication 
 str * str doesn't exist
 str * float doesn't exist
-
+'' takes precendence over "" 
 str needs explicit conversion 
 str(29) = the characters "29" 
 
